@@ -8,7 +8,7 @@ setup(
     author='Nestor Prieto',
     author_email='your.email@domain.com',
     url='https://github.com/nestorp/claim-diff_elones',
-    download_url='https://github.com/nestorp/claim-diff_elones/archive/v_01.tar.gz',
+    download_url='https://github.com/nestorp/claim-diff_elones/archive/refs/tags/v_01.tar.gz',
     license='MIT',
     install_requires=[],
     setup_requires=[],

@@ -1,1 +1,1 @@
-from elones.elo import Statement, StatementEncoder
+from elones.elo import *
